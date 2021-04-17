@@ -1,0 +1,18 @@
+C:\Users\silma\Desktop\Layanny 2020\DESENVOLVIMENTO DE SISTEMAS\Novo\Novo\obj\Debug\Novo.csprojAssemblyReference.cache
+C:\Users\silma\Desktop\Layanny 2020\DESENVOLVIMENTO DE SISTEMAS\Novo\Novo\obj\Debug\Novo.Form1.resources
+C:\Users\silma\Desktop\Layanny 2020\DESENVOLVIMENTO DE SISTEMAS\Novo\Novo\obj\Debug\Novo.Properties.Resources.resources
+C:\Users\silma\Desktop\Layanny 2020\DESENVOLVIMENTO DE SISTEMAS\Novo\Novo\obj\Debug\Novo.csproj.GenerateResource.cache
+C:\Users\silma\Desktop\Layanny 2020\DESENVOLVIMENTO DE SISTEMAS\Novo\Novo\bin\Debug\Novo.exe.config
+C:\Users\silma\Desktop\Layanny 2020\DESENVOLVIMENTO DE SISTEMAS\Novo\Novo\bin\Debug\Novo.exe
+C:\Users\silma\Desktop\Layanny 2020\DESENVOLVIMENTO DE SISTEMAS\Novo\Novo\bin\Debug\Novo.pdb
+C:\Users\silma\Desktop\Layanny 2020\DESENVOLVIMENTO DE SISTEMAS\Novo\Novo\obj\Debug\Novo.exe
+C:\Users\silma\Desktop\Layanny 2020\DESENVOLVIMENTO DE SISTEMAS\Novo\Novo\obj\Debug\Novo.pdb
+C:\Users\bruno\Desktop\Novo\Novo\obj\Debug\Novo.csprojAssemblyReference.cache
+C:\Users\bruno\Desktop\Novo\Novo\obj\Debug\Novo.Form1.resources
+C:\Users\bruno\Desktop\Novo\Novo\obj\Debug\Novo.Properties.Resources.resources
+C:\Users\bruno\Desktop\Novo\Novo\obj\Debug\Novo.csproj.GenerateResource.cache
+C:\Users\bruno\Desktop\Novo\Novo\obj\Debug\Novo.exe
+C:\Users\bruno\Desktop\Novo\Novo\obj\Debug\Novo.pdb
+C:\Users\bruno\Desktop\Novo\Novo\bin\Debug\Novo.exe.config
+C:\Users\bruno\Desktop\Novo\Novo\bin\Debug\Novo.exe
+C:\Users\bruno\Desktop\Novo\Novo\bin\Debug\Novo.pdb
